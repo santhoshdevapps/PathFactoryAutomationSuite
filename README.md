@@ -108,3 +108,11 @@ To run nodes
 
 Repeat step 2 for all the remaining nodes.
 ```
+
+## Screenshot of Test sample output
+![screenshot of the output](/screenshots/testresultssample.png)
+![screenshot of the output](/screenshots/testresultssample1.png)
+
+
+## Screenshot of Jenkins implementation
+![screenshot of the output](/screenshots/jenkinsconsole.png)
