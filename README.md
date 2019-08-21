@@ -4,10 +4,11 @@ Automation test framework covering all the test case for login page and forgot p
 ## Table of contents
 * [Test approach](#test-approach)
 * [Concepts Included](#concepts-included)
+* [Libraries and Frameworks](#libraries-and-frameworks)
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Screenshot](#screenshot)       
-* [Demo](#demo)
+* [Note](#note)
 
 ## Test approach
 
@@ -119,3 +120,7 @@ Repeat step 2 for all the remaining nodes.
 
 ## Screenshot of Jmeter implementation
 ![screenshot of the output](/screenshots/jmeterresults.png)
+
+## Note 
+
+ Files such as Pathfactory.jmx,jenkins,jmeter, screenshots are included here is for reference purpose. Detailed implementation is given at time of demo.
