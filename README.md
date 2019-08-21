@@ -116,3 +116,6 @@ Repeat step 2 for all the remaining nodes.
 
 ## Screenshot of Jenkins implementation
 ![screenshot of the output](/screenshots/jenkinsconsole.png)
+
+## Screenshot of Jmeter implementation
+![screenshot of the output](/screenshots/jmeterresults.png)
